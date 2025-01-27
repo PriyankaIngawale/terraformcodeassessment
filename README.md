@@ -21,3 +21,5 @@ Requirements:
 • Ensure you have meaningful commit messages, so we can follow your thought process
 
 • Code should contain NO comments
+
+Note: Configured AWS credentials for Terraform to access AWS services
